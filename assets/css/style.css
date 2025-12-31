@@ -70,7 +70,7 @@ p {
 }
 
 #transform-world {
-    background-image: url('/assets/images/woman-code.png');
+    background-image: url('../images/woman-code.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
